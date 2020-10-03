@@ -3,4 +3,4 @@ Most recent advances in the machine learning domain pose the challenge of how to
 We demonstrate in a practical example of a simple inventory control system how to integrate the basic topology of a process with a neural network ordinary differential equation model. The system specific constitutive equations are left undescribed and learned by the deep neural network using the adjoint method in combination with an adaptive ODE solver from synthetic time-series data. The resulting neural network forms a state space model for use in a model predictive control algorithm.
 
 Watch the presentation:
-https://www.youtube.com/watch?v=ZE4BW6JJDEs&t=662s
+https://www.youtube.com/watch?v=ZE4BW6JJDEs
